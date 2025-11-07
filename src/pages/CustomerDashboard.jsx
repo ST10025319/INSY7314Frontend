@@ -1,6 +1,6 @@
 
-import AddPayment from '../components/payments/AddPayment';
-import Transactions from '../components/payments/Transactions';
+import AddPayment from '../components/Payments/AddPayment';
+import Transactions from '../components/Payments/Transactions';
 
 export default function CustomerDashboard() {
   return (
